@@ -1,2 +1,2 @@
-# Elzero_Course
+# Elzero Course
 El Zero Web School Git course
